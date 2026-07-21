@@ -1,0 +1,19 @@
+﻿{
+  "name": "Fangshan Stack A",
+  "description": "Industrial stack used for the Fangshan 5 MW experimental validation case.",
+  "nCells": 400,
+  "electrodeAreaM2": 1.54,
+  "ratedCurrentA": 6600,
+  "ratedVoltageV": 720,
+  "ratedPowerMW": 4.752,
+  "ratedHydrogenNm3h": 1000,
+  "ratedTemperatureC": 90,
+  "ratedPressureMPa": 1.6,
+  "ratedLyeFlowM3h": 100,
+  "faradayConstantCmol": 96485,
+  "molarVolumeNm3mol": 0.022414,
+  "lhvKWhKg": 33.33,
+  "hydrogenNm3PerKg": 11.126,
+  "vlhvV": 1.253,
+  "vThermoneutralV": 1.48
+}
